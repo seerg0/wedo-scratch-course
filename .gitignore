@@ -1,0 +1,34 @@
+# Рабочие файлы Windsurf
+.windsurf/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js (если понадобится)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Gemfiles
+Gemfile
+Gemfile.lock
+
+# Временные файлы
+*.tmp
+*.temp
