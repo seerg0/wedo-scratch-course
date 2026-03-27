@@ -25,9 +25,9 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
-# Gemfiles
-Gemfile
-Gemfile.lock
+# Gemfiles (разрешаем для локальной разработки)
+# Gemfile
+# Gemfile.lock
 
 # Временные файлы
 *.tmp
