@@ -46,3 +46,6 @@ timezone: UTC
 
 # Google Analytics (если нужно)
 # google_analytics: UA-XXXXXXXXX-X
+
+# GitHub Pages
+safe: true
