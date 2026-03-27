@@ -1,51 +1,24 @@
-# GitHub Pages конфигурация для Jekyll
+title: Курс WeDo + Scratch
+description: Детские занятия по LEGO WeDo и Scratch для детей 6–9 лет
+url: https://seerg0.github.io/wedo-scratch-course
+baseurl: /wedo-scratch-course
 
-title: "Курс программирования: WeDo + Scratch"
-description: "Детские занятия по LEGO WeDo и Scratch для детей 6–9 лет"
-baseurl: "/wedo-scratch-course"
-url: "https://seerg0.github.io"
-
-# Настройки темы
+# Тема (можно использовать любую поддерживаемую GitHub Pages)
 theme: minima
+
+# Настройки автора
+author:
+  name: Курс WeDo + Scratch
+
+# Настройки сборки
 markdown: kramdown
 highlighter: rouge
+permalink: pretty
 
-# Структура навигации
-header_pages:
-  - README.md
-  - 0_формат_курса.md
-  - 1_сигнализация_wedo.md
-  - 2_сигнализация_scratch.md
-
-# Настройки плагинов
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-# Исключения из сборки
+# Исключить из сборки
 exclude:
+  - .gitignore
   - .windsurf/
+  - README.md
   - Gemfile
   - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-
-# Настройки для Markdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-# SEO настройки
-author: "Sergey Mazur"
-lang: ru
-timezone: UTC
-
-# Google Analytics (если нужно)
-# google_analytics: UA-XXXXXXXXX-X
-
-# GitHub Pages
-safe: true
