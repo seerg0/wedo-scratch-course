@@ -1,39 +1,40 @@
----
-layout: default
-title: Главная страница
----
+# LEGO WeDo + Scratch курс
 
-# 🎮 Курс программирования для детей: WeDo + Scratch
-
-**Детские занятия по LEGO WeDo и Scratch для детей 6–9 лет**
-
-## 📋 О курсе
-
-**Цель:** познакомить детей с логикой программирования через игру и практику
-
-**Возраст:** 6–9 лет
-
-**Формат:** 2 раза в неделю по 1 часу
-- одно занятие WeDo
-- второе Scratch
-
-## 📚 Уроки курса
-
-<ul class="lesson-list">
+<ul>
   <li>
-    <a href="0_формат_курса">📋 Формат курса</a>
-    <p>Описание структуры и формата занятий</p>
+    <a href="lessons/lesson-01-introduction">Урок 1: Введение в LEGO WeDo</a>
+    <p>Знакомство с набором и первым мотором</p>
   </li>
   <li>
-    <a href="lessons/1_сигнализация_wedo">🚨 Урок 1: Сигнализация (WeDo)</a>
-    <p>Создаем сигнализацию с датчиком движения на LEGO WeDo</p>
+    <a href="lessons/lesson-02-scratch-intro">Урок 2: Знакомство со Scratch</a>
+    <p>Интерфейс и первые движения</p>
   </li>
   <li>
-    <a href="lessons/2_сигнализация_scratch">🚨 Урок 2: Сигнализация (Scratch)</a>
-    <p>Программируем сигнализацию в Scratch</p>
+    <a href="lessons/lesson-03-motor">Урок 3: Движение с мотором (WeDo)</a>
+    <p>Создаем первые движущиеся модели</p>
   </li>
   <li>
-    <a href="lessons/3_wedo_umnyy_ventilyator">🌀 Урок 3: Умный вентилятор (WeDo)</a>
-    <p>Создаем вентилятор с датчиком наклона на LEGO WeDo</p>
+    <a href="lessons/lesson-04-events">Урок 4: События в Scratch</a>
+    <p>Реакция на нажатия и запуск</p>
+  </li>
+  <li>
+    <a href="lessons/lesson-05-distance-sensor">Урок 5: Датчик расстояния (WeDo)</a>
+    <p>Учимся реагировать на расстояние</p>
+  </li>
+  <li>
+    <a href="lessons/lesson-06-conditions">Урок 6: Условия в Scratch</a>
+    <p>Если — тогда — иначе</p>
+  </li>
+  <li>
+    <a href="lessons/lesson-07-tilt-sensor">Урок 7: Датчик наклона (WeDo)</a>
+    <p>Реакция на движение и наклон</p>
+  </li>
+  <li>
+    <a href="lessons/lesson-08-loops">Урок 8: Циклы в Scratch</a>
+    <p>Повторение действий</p>
+  </li>
+  <li>
+    <a href="lessons/lesson-09-wedo-smart-barrier">🟣 Урок 9: Умный шлагбаум (WeDo)</a>
+    <p>Создаем автоматическую систему с датчиком расстояния</p>
   </li>
 </ul>
