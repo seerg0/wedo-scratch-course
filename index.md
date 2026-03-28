@@ -13,6 +13,11 @@
 - [Урок 3: Умный вентилятор (WeDo)](lessons/3_wedo_umnyy_ventilyator.md)  
 - [Урок 4: Умный вентилятор (Scratch)](lessons/4_scratch_umnyy_ventilyator.md)  
 
+<li>
+  <a href="lessons/5_umnoe_ustroystvo_na_svet_wedo.md">🟢 Урок 5: Умное устройство (WeDo)</a>
+  <p>Создаем устройство, которое реагирует на расстояние с помощью датчика</p>
+</li>
+
 ---
 
 ## 🎯 Чему ты научишься
