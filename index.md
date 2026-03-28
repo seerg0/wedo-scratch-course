@@ -12,8 +12,8 @@
 - [Урок 2: Сигнализация (Scratch)](lessons/2_signalizaciya_scratch.md)  
 - [Урок 3: Умный вентилятор (WeDo)](lessons/3_wedo_umnyy_ventilyator.md)  
 - [Урок 4: Умный вентилятор (Scratch)](lessons/4_scratch_umnyy_ventilyator.md)  
-- [Урок 5: Умный термометр (WeDo)](lessons/5_umnyy_termometr_wedo.md)  
-- [Урок 6: Умный указатель (WeDo)](lessons/6_wedo_kompas.md)  
+- [Урок 5: Умный термометр (WeDo)](lessons/5_wedo_umnyy_termometr.md)  
+- [Урок 6: Умный указатель (WeDo)](lessons/6_wedo_smart_pointer.md)  
 
 ---
 
