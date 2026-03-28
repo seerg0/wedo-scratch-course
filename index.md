@@ -32,4 +32,8 @@ title: Главная страница
     <a href="lessons/2_сигнализация_scratch">🚨 Урок 2: Сигнализация (Scratch)</a>
     <p>Программируем сигнализацию в Scratch</p>
   </li>
+  <li>
+    <a href="lessons/3_wedo_umnyy_ventilyator">🌀 Урок 3: Умный вентилятор (WeDo)</a>
+    <p>Создаем вентилятор с датчиком наклона на LEGO WeDo</p>
+  </li>
 </ul>
