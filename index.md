@@ -14,6 +14,7 @@
 - [Урок 4: Умный вентилятор (Scratch)](lessons/4_scratch_umnyy_ventilyator.md)  
 - [Урок 5: Умный термометр (WeDo)](lessons/5_wedo_umnyy_termometr.md)  
 - [Урок 6: Умный указатель (WeDo)](lessons/6_wedo_smart_pointer.md)  
+- [Урок 7: Взаимодействие датчика и игры (WeDo+Scratch)](lessons/7_wedo_scratch_vzaimodeystvie.md)  
 
 ---
 
