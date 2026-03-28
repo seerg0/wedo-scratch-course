@@ -1,27 +1,20 @@
 # Курс: WeDo + Scratch
 
-Добро пожаловать в курс по робототехнике и программированию! 🚀
-
-Здесь ты научишься создавать умные устройства с LEGO WeDo и программировать их в Scratch.
-
----
-
 ## 📚 Содержание курса
 
-- [Урок 1: Сигнализация (WeDo)](lessons/1_сигнализация_wedo.md)  
-- [Урок 2: Сигнализация (Scratch)](lessons/2_сигнализация_scratch.md)  
-- [Урок 3: Умный вентилятор (WeDo)](lessons/3_wedo_umnyy_ventilyator.md)  
-- [Урок 4: Умный вентилятор (Scratch)](lessons/4_scratch_umnyy_ventilyator.md)  
+- [Урок 1: Сигнализация (WeDo)](lessons/1_wedo_signalizaciya.md)
+- [Урок 2: Сигнализация (Scratch)](lessons/2_scratch_signalizaciya.md)
+- [Урок 3: Умный вентилятор (WeDo)](lessons/3_wedo_umnyy_ventilyator.md)
+- [Урок 4: Основы кодирования (Scratch)](lessons/4_scratch_kodirovanie.md)
+- [Урок 5: Управление датчиком WeDo в Scratch](lessons/5_scratch_wedo_upravlenie_datchikami.md)
 
----
+## 🚀 О курсе
 
-## 🎯 Чему ты научишься
+Этот курс поможет тебе научиться:
 
-- работать с датчиками  
-- управлять мотором  
-- создавать программы в Scratch  
-- делать умные устройства 🤖  
+- Создавать модели из LEGO WeDo
+- Программировать в Scratch
+- Работать с датчиками и мотором
+- Делать умные устройства
 
----
-
-Удачи в обучении! 🎉
+Начнём! 🎉
