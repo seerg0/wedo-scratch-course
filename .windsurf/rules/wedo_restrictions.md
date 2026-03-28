@@ -1,27 +1,42 @@
-⚙️ Технические ограничения для генерации уроков LEGO WeDo 2.0
+# LEGO WeDo 2.0 Technical Constraints
 
-ИИ-агент обязан учитывать следующие ограничения при создании заданий и моделей:
+AI agents MUST follow these constraints when creating lessons and models:
 
-🧱 Оборудование
+## Available Equipment
 
-Доступен только 1 стандартный набор LEGO WeDo 2.0, включающий:
+Only 1 standard LEGO WeDo 2.0 set is available, containing:
+- 1 Medium Motor
+- 1 Distance Sensor  
+- 1 Tilt Sensor
+- 1 Smarthub (Bluetooth hub)
 
-1 мотор (Medium Motor)
-1 датчик расстояния (Distance Sensor)
-1 датчик наклона (Tilt Sensor)
-1 Smarthub (Bluetooth-хаб)
-🔌 Ограничения по использованию компонентов
-Используется не более одного мотора одновременно
-В программе допускается использование:
-только одного датчика за раз
-или
-комбинации датчиков, если это не усложняет модель
-🏗 Ограничения на модели
-Модель должна собираться из одного набора
-Без использования:
-дополнительных наборов
-редких или нестандартных деталей
-Конструкция должна быть:
-простой
-устойчивой
-воспроизводимой детьми без помощи взрослых
+## Critical Smarthub Limitation
+
+⚠️ IMPORTANT: Smarthub can connect ONLY 2 external modules simultaneously from this list:
+- Tilt Sensor
+- Distance Sensor
+- Medium Motor
+
+## Component Usage Rules
+
+- Maximum 1 motor per model
+- Use only 1 sensor at a time OR combine sensors if it doesn't complicate the model
+- Respect the 2-module Smarthub limit
+
+## Model Constraints
+
+Models must be built from a single WeDo 2.0 set without:
+- Additional sets
+- Rare or non-standard parts
+
+Construction requirements:
+- Simple design
+- Stable structure  
+- Reproducible by children ages 6-9 without adult assistance
+
+## Age Appropriateness
+
+Target audience: Children 6-9 years old
+- All instructions must be age-appropriate
+- Technical complexity should match developmental level
+- Focus on hands-on learning and play-based education
